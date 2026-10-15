@@ -200,6 +200,11 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | TimeChat | - | [CVPR2024](https://arxiv.org/abs/2312.02051) | - | [Code](https://github.com/RenShuhuai-Andy/TimeChat) | PKU | A time-sensitive multimodal LLM for long video understanding with timestamp-aware frame encoding. |
 | InternVideo2 | - | [arXiv](https://arxiv.org/abs/2403.15377) | - | [Code](https://github.com/OpenGVLab/InternVideo) | OpenGVLab | Scaling video foundation models with progressive training; SoTA on video understanding and retrieval. |
 | LongVA | - | [arXiv](https://arxiv.org/abs/2406.16852) | - | [Code](https://github.com/EvolvingLMMs-Lab/LongVA) | LMMs-Lab | Long context transfer for video understanding; processes 2000+ frames with 224K token context. |
+| VideoJev | - | [arXiv](https://arxiv.org/abs/2610.18615) | - | [Code](https://github.com/MCG-NJU/VideoJev) | - | Unifies temporal grounding and multiple-choice video QA through direct candidate scoring, with multiple queries sharing one video prefix. |
+| Video-o3 | - | [ICML 2026](https://arxiv.org/abs/2601.23224) | - | [Code](https://github.com/MCG-NJU/Video-o3) | - | Interleaves long-video reasoning with temporal clue inspection, trained with SFT and trajectory-guided reinforcement learning. |
+| VideoChat3 | - | [arXiv](https://arxiv.org/abs/2607.14935) | - | [Code](https://github.com/MCG-NJU/VideoChat3) | - | A fully open generalist video model covering motion, long-video reasoning, temporal grounding, and proactive online responses. |
+| TimeLens2 | - | [arXiv](https://arxiv.org/abs/2607.17423) | - | [Code](https://github.com/MCG-NJU/TimeLens2) | - | Generalist temporal grounding across short, long, and egocentric videos, trained with verified SFT and temporal-grounding GRPO. |
+| OneStreamer | - | [arXiv](https://arxiv.org/abs/2610.01762) | - | [Code](https://github.com/MCG-NJU/OneStreamer) | - | A streaming video model that builds time-grounded hierarchical caption memory and learns when to produce proactive responses. |
 
 #### Embodied AI
 | Title | Presentation | Paper page | Project page | Code base | Affiliation | Description |
